@@ -1,0 +1,19 @@
+icon;image;description;color;link;name;shortname;size;target;type;sort
+bi bi-people-fill;;;rgb(255, 255, 255);http://www.fundacionalasdecolibri.org/nuestro-trabajo.html;Nuestro trabajo;Nuestro trabajo;4rem;_self;menu-right;1
+bi bi-house-heart-fill;;;rgb(255, 255, 255);http://www.fundacionalasdecolibri.org/solidariosdesdecasa.html;Solidarios desde casa;Solidarios desde casa;4rem;_blank;menu-right;2
+bi bi-newspaper;;;rgb(255, 255, 255);http://www.fundacionalasdecolibri.org/revista-colibriando.html;Revista colibriando;Revista colibriando;4rem;_self;menu-right;3
+bi bi-bandaid;;;rgb(255, 255, 255);http://www.fundacionalasdecolibri.org/solicitud-de-voluntariado.html;Voluntariado pasantias;Voluntariado pasantias;4rem;_blank;menu-right;4
+bi bi-collection-fill;;;#085eb9;/reglamentos;Reglamentos;Reglamentos;4rem;_self;menu-down;1
+bi bi-bank;;;#085eb9;/authorities;Autoridades;Autoridades;4rem;_self;menu-down;2
+bi bi-person-workspace;;;#085eb9;/teachers;Docentes;Docentes;4rem;_self;menu-down;3
+bi bi-stack;;;#085eb9;/galeria;Galería;Galería;4rem;_self;menu-down;4
+bi bi-mortarboard-fill;;;#085eb9;#;Nuestros graduados;Nuestros graduados;4rem;_self;menu-down;5
+bi bi-clipboard2-check;;;#085eb9;/actividades-institucionales;Actividades Institucionales;Actividades Institucionales;4rem;_self;menu-down;6
+bi bi-search;;;#085eb9;/libros-y-publicaciones;Investigación;Investigación;4rem;_self;menu-down;7
+bi bi-people-fill;;;#085eb9;/#Vinculacion;Vinculación;Vinculación;4rem;_self;menu-down;8
+bi bi-cup-straw;img/carreras-vigentes/gastronomia-ecuador.jpeg;Título a obtener: Técnico Superior en Arte Culinario Ecuatoriano;#085eb9;/careers/AC;ARTE CULINARIO;Arte Culinario;4rem;_self;menu-careers;1
+bi bi-radioactive;img/carreras-vigentes/bomberos.jpg;Oferta focalizada: Tecnólogo Superior en Control de Incendios y Operaciones de Rescate;#085eb9;/careers/CI;CONTROL DE INCENDIOS;Control de Incendios;4rem;_self;menu-careers;2
+bi bi-cpu;img/carreras-vigentes/software.jpg;Título a obtener: Tecnólogo Superior en Desarrollo de Software;#085eb9;/careers/DS;DESARROLLO DE SOFTWARE;Desarrollo de Software;4rem;_self;menu-careers;3
+bi bi-scissors;img/carreras-vigentes/moda.jpg;Título a obtener: Diseñador de Modas con nivel equivalente a Tecnología Superior;#085eb9;/careers/DM;DISEÑO DE MODAS;Diseño de Modas;4rem;_self;menu-careers;4
+bi bi-signpost-split;img/carreras-vigentes/turismo-guias.jpg;Título a obtener: Guía Nacional de Turismo con nivel equivalente a tecnología superior;#085eb9;/careers/GN;GUÍA NACIONAL;Guía Nacional;4rem;_self;menu-careers;5
+bi bi-graph-up-arrow;img/carreras-vigentes/equipo-marketing.png;Título a obtener: Tecnólogo Superior en Marketing;#085eb9;/careers/M;MARKETING;Marketing;4rem;_self;menu-careers;6

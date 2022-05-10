@@ -1,0 +1,306 @@
+[{
+  "name": "Mgs. Iván Oscar Borja Carrera",
+  "email": "rector@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority"
+  ],
+  "positions": [
+    "Rector"
+  ]
+},{
+  "name": "Mgs. Héctor Fabián Arévalo Mosquera",
+  "email": "vicerrector@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  "M",
+  "GN"
+  ],
+  "degrees": [
+    "authority",
+	"teacher"
+  ],
+  "positions": [
+    "Vicerrector",
+	"Docente"
+  ]
+},{
+  "name": "Mgs.  Alexandra Gordón M.",
+  "email": "agordon@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Secretaria General"
+  ]
+},{
+  "name": "Abg. Diana Puruncajas V.",
+  "email": "dpuruncajas@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Procuradora"
+  ]
+},{
+  "name": "Mgs. Andrés Carvajal",
+  "email": "acarvajal@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Coordinador Estratégico"
+  ]
+},{
+  "name": "Mgs. Cristian Rodriguez C.",
+  "email": "crodriguez@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Coordinador de Investigación"
+  ]
+},{
+  "name": "Mgs. Amparo Tayupanta",
+  "email": "atayupanta@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Dirección Administrativa - Financiera"
+  ]
+},{
+  "name": "Mgs. Gabriela Coral R.",
+  "email": "gcoral@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+  ],
+  "degrees": [
+    "authority",
+  ],
+  "positions": [
+	"Coordinadora de Vinculación"
+  ]
+},{
+  "name": "Mauricio Tamayo",
+  "email": "mt.tamayo@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "DS",
+    "M"
+  ],
+  "positions": [
+    "Coordinador de Carrera de Software",
+    "Docente"
+  ],
+  "degrees": [
+    "teacher",
+    "authority"
+  ]
+},{
+  "name": "Yogledis Herrera",
+  "email": "yh.herrera@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "DS",
+    "DM"
+  ],
+  "positions": [
+    "Coordinador de Carrera de Diseño de Modas",
+    "Docente"
+  ],
+  "degrees": [
+    "teacher",
+    "authority"
+  ]
+},{
+  "name": "Tatiana Vizcaino",
+  "email": "tv.vizcaino@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "AC",
+    "DM",
+	"M"
+  ],
+  "degrees": [
+    "teacher",
+	"authority"
+  ],
+  "positions": [
+	"Coordinador de Carrera de Diseño de Marketing",
+    "Docente"
+  ]
+},{
+  "name": "Diego Yanez",
+  "email": "dy.yanezo@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "AC",
+    "CI",
+    "M"
+  ],
+  "degrees": [
+	"authority",
+    "teacher"
+  ],
+  "positions": [
+	"Coordinador de Carrera de Arte Culinario",
+    "Docente"
+  ]
+},{
+  "name": "Hernán Mejía",
+  "email": "hm.mejia@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "CI",
+    "M"
+  ],
+  "degrees": [
+	"authority",
+    "teacher"
+  ],
+  "positions": [
+	"Coordinador de Carrera de Control de Incendios",
+    "Docente"
+  ]
+},{
+  "name": "Lorena Chulde",
+  "email": "lch.chulde@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "GN",
+    "M"
+  ],
+  "degrees": [
+	"authority",
+    "teacher"
+  ],
+  "positions": [
+	"Coordinador de Carrera de Control de Guía Nacional",
+    "Docente"
+  ]
+},{
+  "name": "Yolanda Moya",
+  "email": "my.moya@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "CI",
+    "M"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Docente"
+  ]
+},{
+  "name": "Elizabeth Mera",
+  "email": "em.mera@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "AC",
+    "DM"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Docente"
+  ]
+},{
+  "name": "Maritza Tituaña",
+  "email": "mt.tituana@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "GN",
+    "DS"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Docente"
+  ]
+},{
+  "name": "Lorena Maldonado",
+  "email": "jmaldonado@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "YEC"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Teacher"
+  ]
+},{
+  "name": "Elizabeth Cárdenas",
+  "email": "ecardenas@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "YEC"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Teacher"
+  ]
+},{
+  "name": "Edison López",
+  "email": "elopez@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "YEC"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Teacher"
+  ]
+},{
+  "name": "Pablo Maldonado",
+  "email": "pmaldonado@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "YEC"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Teacher"
+  ]
+},{
+  "name": "Emily Méndez",
+  "email": "emendez@yavirac.edu.ec",
+  "image":"/img/carreras-vigentes/docentes/avatar.jpg",
+  "careers": [
+    "YEC"
+  ],
+  "degrees": [
+    "teacher"
+  ],
+  "positions": [
+    "Teacher"
+  ]
+}]

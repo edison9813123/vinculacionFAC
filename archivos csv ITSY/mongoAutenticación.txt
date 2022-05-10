@@ -1,0 +1,22 @@
+C:\Users\Carolina Chamorro\AppData\Local\Programs\mongosh\
+
+db.createUser(
+  {
+    user: "myUser",
+    pwd:  "adminMongo2022",   // or cleartext password
+    roles: [ { role: "readWrite", db: "web" }]
+  }
+)
+
+Pasos
+mongo --auth
+
+en otra terminal para web
+mongo -u myUser -p adminMongo2022
+
+colocar credenciales en mongoCompass
+user:myUser
+pass: adminMongo2022
+
+Variable para conectar la base de datos mongo Web
+const URI='mongodb://myUser:adminMongo2022@localhost:27017/web';

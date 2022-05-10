@@ -1,0 +1,16 @@
+class,color,link,name,size,target,type
+bi bi-person-check-fill,"rgb(255, 255, 255)",/admisiones,Admisiones,4rem,_self,menu-right
+bi bi-display,"rgb(255, 255, 255)",https://siau.senescyt.gob.ec/programa-transformandonos/,Transformándonos,4rem,_blank,menu-right
+bi bi-layers-fill,"rgb(255, 255, 255)",https://eva.yavirac.edu.ec/,Carreras,4rem,_self,menu-right
+bi bi-display,"rgb(255, 255, 255)",https://eva.yavirac.edu.ec/,EVA,4rem,_blank,menu-right
+bi bi-display,"rgb(255, 255, 255)",https://ignug.yavirac.edu.ec/,IGNUG,4rem,_blank,menu-right
+bi bi-display,"rgb(255, 255, 255)",http://siga.institutos.gob.ec:8080/siga-web/indice.jsf,SIGA,4rem,_blank,menu-right
+bi bi-briefcase-fill,"rgb(255, 255, 255)",https://bolsa-empleo.yavirac.edu.ec/,Bolsa de empleo,4rem,_blank,menu-right
+bi bi-collection-fill,#085eb9,/reglamentos,Reglamentos,4rem,_self,menu-down
+bi bi-bank,#085eb9,/autoridades,Autoridades,4rem,_self,menu-down
+bi bi-stack,#085eb9,#,Galería,4rem,_self,menu-down
+bi bi-person-workspace,#085eb9,/docentes,Docentes,4rem,_self,menu-down
+bi bi-mortarboard-fill,#085eb9,#,Nuestros graduados,4rem,_self,menu-down
+bi bi-clipboard2-check,#085eb9,#,Actividades Institucionales,4rem,_self,menu-down
+bi bi-search,#085eb9,#,Investigación,4rem,_self,menu-down
+bi bi-people-fill,#085eb9,#,Vinculación,4rem,_self,menu-down

@@ -1,0 +1,61 @@
+[{
+  "route":"politica-calidad",
+  "number_template": "template-one",
+  "banner": "img/slider/instalacion1-1.png",
+  "title": "Política de Calidad",
+  "subtitle": "Información Importante",
+  "slider": [
+    "img/slider/instalacion2.png",
+    "img/slider/instalacion3.png",
+    "img/slider/instalacion4.png",
+    "img/slider/instalacion5.png"
+  ],
+  "texts": {
+  "section-text":[
+    "Contar con la mayor información posible es fundamental para tomar una adecuada decisión; por eso, en este suplemento encontrarás todas las carreras que las universidades, escuelas politécnicas e institutos técnicos y tecnológicos públicos y particulares del país ofertan en este periodo académico, detallando la ciudad, jornada y modalidad en las que se impartirán.",
+    "Es importante que consideres que cada institución de educación superior define, de forma autónoma, cuántos cupos ofertar en cada periodo, además, no existe un puntaje mínimo para postular y puedes escoger hasta cinco opciones de carreras, seleccionadas en orden de prioridad, según tu preferencia.",
+    "Una vez que hayas postulado, el sistema, de manera automática asigna os cupos tomando en consideración: primero, el puntaje obtenido por los estudiantes en el examen Ser Bachiller;",
+    "segundo, número de cupos ofertados por las instituciones de educación superior; y, tercero, la selección responsable de carreras que realiza cada aspirante durante el proceso de postulación.",
+    "La asignación se da desde la nota, más alta hasta cubrir la totalidad de cupos disponibles.",
+    "Para que tengas una idea más clara de a qué carrera postular, es necesario que también tengas en cuenta, a manera de referencia, las notas máximas y promedios con que se asignó un cupo en el proceso anterior, Esta información, se encuentra detallada más adelante.",
+    "Recuerda, si esta vez no obtienes un cupo, podrás acceder a nuestros cursos gratuitos de nivelación y prepararte para rendir el siguiente Ser Bachiller en mejores condiciones.",
+    "Estamos trabajando todos los días para ampliar y diversificar la oferta. En esta ocasión tendrás la opción de educación virtual."
+  ],
+  "section-right":[],
+  "section-left":[]  
+  },
+  "files": [
+    "/",
+    "/"
+  ]
+},{
+  "route":"transparencia",
+  "number_template": "template-two",
+  "banner": "img/slider/instalacion1-1.png",
+  "title": "Transparencia",
+  "subtitle": "Información Importante",
+  "slider": [
+    "img/slider/instalacion2.png",
+    "img/slider/instalacion3.png",
+    "img/slider/instalacion4.png",
+    "img/slider/instalacion5.png"
+  ],
+  "texts": {
+    "section-right":[
+    "subtitle":"Subtitle1",
+    "paragraph":"Contar con la mayor información posible es fundamental para tomar una adecuada decisión; por eso, en este suplemento encontrarás todas las carreras que las universidades, escuelas politécnicas e institutos técnicos y tecnológicos públicos y particulares del país ofertan en este periodo académico, detallando la ciudad, jornada y modalidad en las que se impartirán.Es importante que consideres que cada institución de educación superior define, de forma autónoma, cuántos cupos ofertar en cada periodo, además, no existe un puntaje mínimo para postular y puedes escoger hasta cinco opciones de carreras, seleccionadas en orden de prioridad, según tu preferencia.",
+    "image":"/img/ANTES.png"
+    ],
+    "section-left":[
+    "subtitle":"Subtitle2",
+    "paragraph":"Una vez que hayas postulado, el sistema, de manera automática asigna os cupos tomando en consideración: primero, el puntaje obtenido por los estudiantes en el examen Ser Bachiller;segundo, número de cupos ofertados por las instituciones de educación superior; y, tercero, la selección responsable de carreras que realiza cada aspirante durante el proceso de postulación.Estamos trabajando todos los días para ampliar y diversificar la oferta. En esta ocasión tendrás la opción de educación virtual.Para que tengas una idea más clara de a qué carrera postular, es necesario que también tengas en cuenta, a manera de referencia, las notas máximas y promedios con que se asignó un cupo en el proceso anterior, Esta información, se encuentra detallada más adelante.Recuerda, si esta vez no obtienes un cupo, podrás acceder a nuestros cursos gratuitos de nivelación y prepararte para rendir el siguiente Ser Bachiller en mejores condiciones.",
+    "image":"/img/despues-1.png",
+    ],
+    "section-text":["Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+    "Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo Contenido aquí, contenido aquí. Estos textos hacen parecerlo un español que se puede leer. Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de Lorem Ipsum va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo insertándole humor y cosas por el estilo)."]
+  },
+  "files": [
+    "/",
+    "/"
+  ]
+}]

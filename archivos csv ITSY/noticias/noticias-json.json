@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "622252d38d9e8f2f15e5b2af"
+  },
+  "author": "John Watson",
+  "date": "17 de Junio, 2019",
+  "image": "img/noticias/vertical-moda.jpeg",
+  "short_description": "Amig@s de Oye Ve y Dile, estamos próximos a conmemorar el Día Mundial del Patrimonio Cultural y el Instituto Superior Yavirac.",
+  "targer": "_blank",
+  "title": "El martes 04 de marzo se realizó el desfile de la Carrera de Diseño de Modas con las últimas tendencias",
+  "paragraphs": [
+    "Amigos y amigas de Oye Ve y Dile, estamos próximos a conmemorar el Día Mundial del Patrimonio Cultural y el Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac con el apoyo de la Subsecretaria de Patrimonio Cultural nos invitaron al desfile de modas denominado Ñucanchipac, que significa empoderamiento, donde se expuso más de 70 outfit en la pasarela.",
+    "La temática principal del desfile y como inspiración para el diseño de los trajes, se ha tomado en cuenta las nacionalidades Cañar, Natabuela, Otavalo, Shuar, Ashuar, Secoya, Záparo, Cofán, Siona y Tsáchila. El objetivo principal es interpretar la vestimenta étnica de estas diferentes nacionalidades indígenas del Ecuador y representarlo en el diseño de modas de la actualidad."
+  ]
+},{
+  "_id": {
+    "$oid": "622252d38d9e8f2f15e5b2b0"
+  },
+  "author": "Merry Watson",
+  "date": "07 de Enero, 2022",
+  "image": "img/noticias/prueba-noticia1.jpg",
+  "short_description": "La variante Ómicron del coronavirus se convirtió en la dominante en el país y desplazó a la Delta. Así lo anunció la ministra de Salud, Ximena Garzón, este viernes 7 de enero del 2022.",
+  "targer": "_blank",
+  "title": "Ómicron desplazó a Delta y ahora es la variante de dominio en Ecuador",
+  "paragraphs": [
+    "La variante Ómicron del coronavirus se convirtió en la dominante en el país y desplazó a la Delta. Así lo anunció la ministra de Salud, Ximena Garzón, este viernes 7 de enero del 2022.",
+    "Hasta el pasado 3 de enero, y desde julio del 2021, la variante Delta fue la dominante en Ecuador con 1 256 casos. Otras variantes que circulan en el país son la Mu, con 542; Lota, con 353; Gamma, con 345; Lambda, con 304; Alpha, con 266; y otras, 218.",
+    "Sin embargo, la situación cambió. Las autoridades ya venían alertando de un incremento de contagios con un promedio semanal de 9 796 de casos, hasta esa misma fecha.",
+    "Solo en diciembre del 2021, se registraron más de 21 700 casos, frente a más de 9 100 en noviembre y 6 600 en octubre y esta tendencia se mantendrá al menos hasta el 15 de enero, según dijo la ministra Garzón.",
+    "Para el doctor Alberto Narváez, docente de la Facultad de Medicina de la Universidad Central, el país vive un pico de contagios similar al de mayo del 2021 y probablemente se alcance el pico máximo a finales de enero cuando se llegue a 6 000 casos promedio por día."
+  ]
+},{
+  "_id": {
+    "$oid": "622254338d9e8f2f15e5b2b1"
+  },
+  "author": "Sara Oñate",
+  "date": "17 de Febrero, 2022",
+  "image": "img/noticias/prueba-noticia2.jpg",
+  "short_description": "En el informe sobre la situación epidemiológica del covid-19 que se propaga en Ecuador, la ministra de Salud, Ximena Garzón, reiteró que el país va por buen camino. La funcionaria confía en que para finales de marzo del 2022 ya se pueda dejar de utilizar la mascarilla en espacios abiertos.",
+  "targer": "_blank",
+  "title": "Ecuador podría dejar la mascarilla en marzo, dice Ministra",
+  "paragraphs": [
+    "En el informe sobre la situación epidemiológica del covid-19 que se propaga en Ecuador, la ministra de Salud, Ximena Garzón, reiteró que el país va por buen camino. La funcionaria confía en que para finales de marzo del 2022 ya se pueda dejar de utilizar la mascarilla en espacios abiertos.",
+    "Garzón señaló, además, que se espera que Ómicron desplace a todas las demás variantes y que se convierta en prevalente y endémica. La estimación es que se vuelva como la influenza, con picos estacionales y pocos casos en el año.",
+    "Según la funcionaria, de no ser por Ómicron, Ecuador probablemente ya estaría sin medidas de bioseguridad. Recordó que en octubre del 2021, el país tuvo una positividad viral de 4,5% la misma que se mantuvo. Sin embargo, llegó la nueva variante y también influyeron las fiestas de diciembre.",
+    "La Ministra mencionó que, en el contexto de una pandemia, siempre existe la posibilidad de que emerja una nueva variante, especialmente en lugares con poca vacunación y alta transmisibilidad. Por ello, la Secretaria de Estado reiteró la importancia de que las personas se sigan inmunizando.",
+    "“Mientras más cobertura de vacunación tengamos en la población, más protegidos estaremos y menos vulnerables a cualquier variante que aparezca”, dijo Garzón. Agregó que todavía hay que mantener las medidas de bioseguridad y respetar los aforos."
+  ]
+}]
